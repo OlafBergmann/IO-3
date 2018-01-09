@@ -1,0 +1,6 @@
+c:\users\olaf\documents\visual studio 2017\Projects\IO-TAP\IO-TAP\obj\Debug\IO-TAP.csprojResolveAssemblyReference.cache
+c:\users\olaf\documents\visual studio 2017\Projects\IO-TAP\IO-TAP\bin\Debug\IO-TAP.exe.config
+c:\users\olaf\documents\visual studio 2017\Projects\IO-TAP\IO-TAP\bin\Debug\IO-TAP.exe
+c:\users\olaf\documents\visual studio 2017\Projects\IO-TAP\IO-TAP\bin\Debug\IO-TAP.pdb
+c:\users\olaf\documents\visual studio 2017\Projects\IO-TAP\IO-TAP\obj\Debug\IO-TAP.exe
+c:\users\olaf\documents\visual studio 2017\Projects\IO-TAP\IO-TAP\obj\Debug\IO-TAP.pdb
