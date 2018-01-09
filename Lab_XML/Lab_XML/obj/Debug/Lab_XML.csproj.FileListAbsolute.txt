@@ -1,0 +1,6 @@
+c:\users\olaf\documents\visual studio 2017\Projects\Lab_XML\Lab_XML\bin\Debug\Lab_XML.exe.config
+c:\users\olaf\documents\visual studio 2017\Projects\Lab_XML\Lab_XML\bin\Debug\Lab_XML.exe
+c:\users\olaf\documents\visual studio 2017\Projects\Lab_XML\Lab_XML\bin\Debug\Lab_XML.pdb
+c:\users\olaf\documents\visual studio 2017\Projects\Lab_XML\Lab_XML\obj\Debug\Lab_XML.csprojResolveAssemblyReference.cache
+c:\users\olaf\documents\visual studio 2017\Projects\Lab_XML\Lab_XML\obj\Debug\Lab_XML.exe
+c:\users\olaf\documents\visual studio 2017\Projects\Lab_XML\Lab_XML\obj\Debug\Lab_XML.pdb
