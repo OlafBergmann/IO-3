@@ -17,7 +17,7 @@ namespace InzynieriaOprogramowaniaLab3
         #region Zadanie 1
         public struct TResultDataStructure
         {
-            //zadanie 1
+            //zadanie 1//
             private int i1, i2;
 
             public int I1 { get => i1; set => i1 = value; }
@@ -54,7 +54,7 @@ namespace InzynieriaOprogramowaniaLab3
         }
         public void Zadanie2()
         {
-            //ZADANIE 2. ODKOMENTUJ I POPRAW  
+            //ZADANIE 2 //odkomentuj i  
 
             var task = Task.Run(
                 () =>
@@ -163,9 +163,7 @@ namespace InzynieriaOprogramowaniaLab3
             }
             public void RequestCancellation()
             {
-                cts.Cancel();
-                //serverTask.Wait();
-                //serverTask.Dispose();
+                cts.Cancel();  
                 server.Stop();
             }
             public void Run()
@@ -175,7 +173,6 @@ namespace InzynieriaOprogramowaniaLab3
             public void StopRunning()
             {
                 RequestCancellation();
-                //serverTask.Dispose();
             }
             #endregion
         }
